@@ -1,5 +1,5 @@
 <?php get_header(); ?> 
 <div class="contents">
-  test site
+  kmnp-top
 </div><!--end contents--> 
 <?php get_footer(); ?>

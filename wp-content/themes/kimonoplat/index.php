@@ -13,7 +13,7 @@
             <a href="" class="tag-text">着物</a>
             <a href="" class="tag-text">なんやら</a>
           </div>
-          <div class="art-card-timestamp"><img src=>2023/3/10</div>
+          <div class="card-timestamp"><img src=>2023/3/10</div>
         </div>
       </div>
       <div class="art-card-sq">
@@ -24,7 +24,7 @@
             <a href="" class="tag-text">着物</a>
             <a href="" class="tag-text">なんやら</a>
           </div>
-          <div class="art-card-timestamp"><img src=>2023/3/10</div>
+          <div class="card-timestamp"><img src=>2023/3/10</div>
         </div>
       </div>
       <div class="art-card-sq">
@@ -35,7 +35,7 @@
             <a href="" class="tag-text">着物</a>
             <a href="" class="tag-text">なんやら</a>
           </div>
-          <div class="art-card-timestamp"><img src=>2023/3/10</div>
+          <div class="card-timestamp"><img src=>2023/3/10</div>
         </div>
       </div>
       <div class="art-card-sq">
@@ -46,7 +46,7 @@
             <a href="" class="tag-text">着物</a>
             <a href="" class="tag-text">なんやら</a>
           </div>
-          <div class="art-card-timestamp"><img src=>2023/3/10</div>
+          <div class="card-timestamp"><img src=>2023/3/10</div>
         </div>
       </div>
       <div class="art-card-sq">
@@ -57,7 +57,7 @@
             <a href="" class="tag-text">着物</a>
             <a href="" class="tag-text">なんやら</a>
           </div>
-          <div class="art-card-timestamp"><img src=>2023/3/10</div>
+          <div class="card-timestamp"><img src=>2023/3/10</div>
         </div>
       </div>
       <div class="art-card-sq">
@@ -68,7 +68,7 @@
             <a href="" class="tag-text">着物</a>
             <a href="" class="tag-text">なんやら</a>
           </div>
-          <div class="art-card-timestamp"><img src=>2023/3/10</div>
+          <div class="card-timestamp"><img src=>2023/3/10</div>
         </div>
       </div>
       <a href="" class="link-osusume-itiran"><p class="link-osusume-itiran-arrow">→</p>おすすめ記事一覧を見る</a>
@@ -89,7 +89,7 @@
             <a href="" class="tag-text">着物</a>
             <a href="" class="tag-text">なんやら</a>
           </div>
-          <div class="art-card-timestamp"><img src=>2023/3/10</div>
+          <div class="card-timestamp"><img src=>2023/3/10</div>
           <img src="" alt="特集">
         </div>
       </div>
@@ -102,7 +102,7 @@
             <a href="" class="tag-text">着物</a>
             <a href="" class="tag-text">なんやら</a>
           </div>
-          <div class="art-card-timestamp"><img src=>2023/3/10</div>
+          <div class="card-timestamp"><img src=>2023/3/10</div>
           <img src="" alt="特集">
         </div>
       </div>
@@ -115,7 +115,7 @@
             <a href="" class="tag-text">着物</a>
             <a href="" class="tag-text">なんやら</a>
           </div>
-          <div class="art-card-timestamp"><img src=>2023/3/10</div>
+          <div class="card-timestamp"><img src=>2023/3/10</div>
           <img src="" alt="特集">
         </div>
       </div>
@@ -136,7 +136,7 @@
             <a href="" class="tag-text">着物</a>
             <a href="" class="tag-text">なんやら</a>
           </div>
-          <div class="art-card-timestamp"><img src=>2023/3/10</div>
+          <div class="card-timestamp"><img src=>2023/3/10</div>
         </div>
       </div>
       <div class="art-card-sq">
@@ -147,7 +147,7 @@
             <a href="" class="tag-text">着物</a>
             <a href="" class="tag-text">なんやら</a>
           </div>
-          <div class="art-card-timestamp"><img src=>2023/3/10</div>
+          <div class="card-timestamp"><img src=>2023/3/10</div>
         </div>
       </div>
       <div class="art-card-sq">
@@ -158,7 +158,7 @@
             <a href="" class="tag-text">着物</a>
             <a href="" class="tag-text">なんやら</a>
           </div>
-          <div class="art-card-timestamp"><img src=>2023/3/10</div>
+          <div class="card-timestamp"><img src=>2023/3/10</div>
         </div>
       </div>
     </div>
@@ -178,7 +178,7 @@
               <a href="" class="tag-text">着物</a>
               <a href="" class="tag-text">なんやら</a>
             </div>
-            <div class="art-card-timestamp"><img src=>2023/3/10</div>
+            <div class="card-timestamp"><img src=>2023/3/10</div>
           </div>
         </div>
         <div class="art-card-sq">
@@ -189,7 +189,7 @@
               <a href="" class="tag-text">着物</a>
               <a href="" class="tag-text">なんやら</a>
             </div>
-            <div class="art-card-timestamp"><img src=>2023/3/10</div>
+            <div class="card-timestamp"><img src=>2023/3/10</div>
           </div>
         </div>
         <div class="art-card-sq">
@@ -200,7 +200,7 @@
               <a href="" class="tag-text">着物</a>
               <a href="" class="tag-text">なんやら</a>
             </div>
-            <div class="art-card-timestamp"><img src=>2023/3/10</div>
+            <div class="card-timestamp"><img src=>2023/3/10</div>
           </div>
         </div>
         <div class="art-card-sq">
@@ -211,7 +211,7 @@
               <a href="" class="tag-text">着物</a>
               <a href="" class="tag-text">なんやら</a>
             </div>
-            <div class="art-card-timestamp"><img src=>2023/3/10</div>
+            <div class="card-timestamp"><img src=>2023/3/10</div>
           </div>
         </div>
         <div class="art-card-sq">
@@ -222,7 +222,7 @@
               <a href="" class="tag-text">着物</a>
               <a href="" class="tag-text">なんやら</a>
             </div>
-            <div class="art-card-timestamp"><img src=>2023/3/10</div>
+            <div class="card-timestamp"><img src=>2023/3/10</div>
           </div>
         </div>
         <div class="art-card-sq">
@@ -233,7 +233,7 @@
               <a href="" class="tag-text">着物</a>
               <a href="" class="tag-text">なんやら</a>
             </div>
-            <div class="art-card-timestamp"><img src=>2023/3/10</div>
+            <div class="card-timestamp"><img src=>2023/3/10</div>
           </div>
         </div>
     </div>

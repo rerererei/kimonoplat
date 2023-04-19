@@ -4,3 +4,92 @@
 
 ---------------------------------*/
 
+/*  TOP全体共通 ここから */
+.contents {
+  width: 960px;
+}
+
+h1 {
+  font-size: 16px;
+}
+
+.top-midashi{
+  
+}
+
+.art-card-sq{
+  
+}
+
+.art-summary{
+  
+}
+
+h1 .card-midashi{
+  font-size: 16px;
+}
+
+.card-tag{
+  
+}
+
+.tag-text{
+  
+}
+
+.art-card-timestamp{
+  
+}
+/*  TOP全体共通 ここまで */
+
+/*  おすすめ記事 ここから */
+.top-osusume{
+  
+}
+
+.arts-osusume{
+  
+}
+
+.link-osusume-itiran{
+  
+}
+
+.link-osusume-itiran-arrow{
+  
+}
+/*  おすすめ記事 ここまで */
+
+/*  よく読まれている記事 ここから */
+.top-ranking{
+  
+}
+
+.arts-ranking{
+  
+}
+
+.art-card-bar{
+  
+}
+/*  よく読まれている記事 ここまで */
+
+/*  特集 ここから */
+.top-feature{
+  
+}
+
+.arts-feature{
+  
+}
+/*  特集 ここまで */
+
+/*  新着記事 ここから */
+.top-new{
+  
+}
+
+.arts-new{
+  
+}
+/*  新着記事 ここまで */

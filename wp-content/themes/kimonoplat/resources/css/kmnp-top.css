@@ -4,59 +4,100 @@
 
 ---------------------------------*/
 
-/*  TOP全体共通 ここから */
+/*  ############TOP全体共通 ここから############ */
+a {
+  text-decoration: none;
+  color: #333333;
+}
+
+a:hover{
+  color: #333333;
+}
+
 .contents {
-  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 960px;
+  width: 100%;
+  height: auto;
 }
 
 .top-midashi {
-  font-size: 16px;
+  
 }
 
 .art-card-sq {
-
+  border-radius: 5px;
+  border: 1px solid #E0E0E01A;
+  box-shadow: 0px 0px 4px 0px #00000033;
+  width: calc(33.33% - 10px);
 }
 
-.art-summary {
+/* .art-card-sq:has(+ .art-card-sq){ 直後にカード要素があるカードのみにcss適用 
+  margin-right: 20px;
+}  */
 
+
+/* おすすめ記事の3の倍数番目のカード(3や6個目のカード)"以外"に適用 */
+/* .arts-osusume > .art-card-sq:not(:nth-of-type(3n)) { 
+  margin-right: 20px;
+} */
+
+.art-summary {
+  margin: 10px 15px;
 }
 
 .card-midashi {
-
+  font-size: 16px;
+  margin-bottom: 10px;
 }
 
-.card-tag {
-
+.card-tags {
 }
 
 .tag-text {
-
+  background: #D6CCB1;
+  color: #FFFFFF;
+  font-size: 12px;
+  margin-bottom: 3px;
+  padding: 2px 8px;
+  border-radius: 10px;
 }
 
 .card-timestamp {
-
+  color: #777777;
+  font-size: 12px;
+  text-align: right;
 }
-/*  TOP全体共通 ここまで */
+/*  ############TOP全体共通 ここまで############ */
 
-/*  おすすめ記事 ここから */
+
+
+
+/*  ############おすすめ記事 ここから############ */
 .top-osusume{
-  
+  margin-top: 20px;
+  margin-left: 70px;
 }
 
 .arts-osusume{
-  
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px 0px;
 }
 
 .link-osusume-itiran{
-  
+  display: flex;
+  margin-top: 15px;
 }
 
 .link-osusume-itiran-arrow{
-  
+  color: #B02929;
 }
-/*  おすすめ記事 ここまで */
+/*  ############おすすめ記事 ここまで############ */
 
-/*  よく読まれている記事 ここから */
+/*  ############よく読まれている記事 ここから############ */
 .top-ranking{
   
 }
@@ -68,9 +109,9 @@
 .art-card-bar{
   
 }
-/*  よく読まれている記事 ここまで */
+/*  ############よく読まれている記事 ここまで############ */
 
-/*  特集 ここから */
+/*  ############特集 ここから############ */
 .top-feature{
   
 }
@@ -78,9 +119,9 @@
 .arts-feature{
   
 }
-/*  特集 ここまで */
+/*  ############特集 ここまで############ */
 
-/*  新着記事 ここから */
+/*  ############新着記事 ここから############ */
 .top-new{
   
 }
@@ -88,4 +129,4 @@
 .arts-new{
   
 }
-/*  新着記事 ここまで */
+/*  ############新着記事 ここまで############ */
